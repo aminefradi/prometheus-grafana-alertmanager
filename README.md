@@ -41,7 +41,7 @@ management:
 docker-compose up -d --build
 ```
 
-3 - URLs :
+5 - URLs :
 
 Prometheus :
 http://192.168.99.100:9090/
